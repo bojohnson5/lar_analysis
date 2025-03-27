@@ -1,0 +1,2 @@
+CompileFlags:
+  Add: [-I/N/soft/rhel8/root/6.28.04/include, -I/N/soft/rhel8/boost/gnu/1.75.0/include, -I/N/u/bojohn/Quartz/cohar750_sim]
